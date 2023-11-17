@@ -1,0 +1,49 @@
+@media screen and (max-width: 1200px) {
+    }body, h1, h2, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center; 
+}
+
+header {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+}
+section {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    margin-bottom: 10px; 
+}
+
+section {
+    margin: 20px 0; 
+    text-align: left; 
+}
+
+ul {
+    list-style-type: none; 
+}
+
+li {
+    margin-bottom: 5px; 
+}
+
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; 
+}
