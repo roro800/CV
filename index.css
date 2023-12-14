@@ -14,7 +14,7 @@ header {
     color: #ffffff;
     padding: 20px;
 }
-aside > img {
+header > img {
     width: 100px;
 }
 section {
